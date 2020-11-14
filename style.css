@@ -78,3 +78,425 @@ body{
  .navbar-links ul li a{
      font-size: 1rem;
  }
+
+ .pic{
+     height: 300px;
+     width: 350px;
+  
+ }
+ 
+
+ .pic {
+    transition: transform 0.2s ease;
+    cursor: zoom-in;
+
+    position: absolute;
+    top: 130px;
+    left: 570px;
+    height: 400px; 
+    width: 500px;
+  }
+  
+  .pic:active {
+    -webkit-transform: scale(0.1);
+    transform: scale(1.5);
+    cursor: zoom-out;
+    z-index: 1;
+
+  }
+
+  .pic2 {
+    transition: transform 0.2s ease;
+    cursor: zoom-in;
+
+    position: absolute;
+    top: 800px;
+    left: 570px;
+    height: 400px; 
+    width: 500px;
+  }
+  
+  .pic2:active {
+    -webkit-transform: scale(0.1);
+    transform: scale(1.5);
+    cursor: zoom-out;
+    z-index: 1;
+
+  }
+
+
+  .pic3 {
+    transition: transform 0.2s ease;
+    cursor: zoom-in;
+
+    position: absolute;
+    top: 1470px;
+    left: 570px;
+    height: 400px; 
+    width: 500px;
+  }
+  
+  .pic3:active {
+    -webkit-transform: scale(0.1);
+    transform: scale(1.5);
+    cursor: zoom-out;
+    z-index: 1;
+
+  }
+
+  .pic4 {
+    transition: transform 0.2s ease;
+    cursor: zoom-in;
+
+    position: absolute;
+    top: 2140px;
+    left: 570px;
+    height: 400px; 
+    width: 500px;
+  }
+  
+  .pic4:active {
+    -webkit-transform: scale(0.1);
+    transform: scale(1.5);
+    cursor: zoom-out;
+    z-index: 1;
+
+  }
+
+  .pic5 {
+    transition: transform 0.2s ease;
+    cursor: zoom-in;
+
+    position: absolute;
+    top: 2810px;
+    left: 570px;
+    height: 400px; 
+    width: 500px;
+  }
+  
+  .pic5:active {
+    -webkit-transform: scale(0.1);
+    transform: scale(1.5);
+    cursor: zoom-out;
+    z-index: 1;
+
+  }
+
+  .pic6 {
+    transition: transform 0.2s ease;
+    cursor: zoom-in;
+
+    position: absolute;
+    top: 3480px;
+    left: 570px;
+    height: 400px; 
+    width: 500px;
+  }
+  
+  .pic6:active {
+    -webkit-transform: scale(0.1);
+    transform: scale(1.5);
+    cursor: zoom-out;
+    z-index: 1;
+
+  }
+
+  .pic7 {
+    transition: transform 0.2s ease;
+    cursor: zoom-in;
+
+    position: absolute;
+    top: 4150px;
+    left: 570px;
+    height: 400px; 
+    width: 500px;
+  }
+  
+  .pic7:active {
+    -webkit-transform: scale(0.1);
+    transform: scale(1.5);
+    cursor: zoom-out;
+    z-index: 1;
+
+  }
+
+  .pic8 {
+    transition: transform 0.2s ease;
+    cursor: zoom-in;
+
+    position: absolute;
+    top: 4820px;
+    left: 570px;
+    height: 400px; 
+    width: 500px;
+  }
+  
+  .pic8:active {
+    -webkit-transform: scale(0.1);
+    transform: scale(1.5);
+    cursor: zoom-out;
+    z-index: 1;
+
+  }
+
+  .pic9 {
+    transition: transform 0.2s ease;
+    cursor: zoom-in;
+
+    position: absolute;
+    top: 5490px;
+    left: 570px;
+    height: 400px; 
+    width: 500px;
+  }
+  
+  .pic9:active {
+    -webkit-transform: scale(0.1);
+    transform: scale(1.5);
+    cursor: zoom-out;
+    z-index: 1;
+
+  }
+
+  .pic10 {
+    transition: transform 0.2s ease;
+    cursor: zoom-in;
+
+    position: absolute;
+    top: 6160px;
+    left: 570px;
+    height: 400px; 
+    width: 500px;
+  }
+  
+  .pic10:active {
+    -webkit-transform: scale(0.1);
+    transform: scale(1.5);
+    cursor: zoom-out;
+    z-index: 1;
+
+  }
+
+  .pic11 {
+    transition: transform 0.2s ease;
+    cursor: zoom-in;
+
+    position: absolute;
+    top: 6830px;
+    left: 570px;
+    height: 400px; 
+    width: 500px;
+  }
+  
+  .pic11:active {
+    -webkit-transform: scale(0.1);
+    transform: scale(1.5);
+    cursor: zoom-out;
+    z-index: 1;
+
+  }
+
+  .pic12 {
+    transition: transform 0.2s ease;
+    cursor: zoom-in;
+
+    position: absolute;
+    top: 7500px;
+    left: 570px;
+    height: 400px; 
+    width: 500px;
+  }
+  
+  .pic12:active {
+    -webkit-transform: scale(0.1);
+    transform: scale(1.5);
+    cursor: zoom-out;
+    z-index: 1;
+
+  }
+
+
+  .pic13 {
+    transition: transform 0.2s ease;
+    cursor: zoom-in;
+
+    position: absolute;
+    top: 8170px;
+    left: 570px;
+    height: 400px; 
+    width: 500px;
+  }
+  
+  .pic13:active {
+    -webkit-transform: scale(0.1);
+    transform: scale(1.5);
+    cursor: zoom-out;
+    z-index: 1;
+
+  }
+
+  .pic14 {
+    transition: transform 0.2s ease;
+    cursor: zoom-in;
+
+    position: absolute;
+    top: 8840px;
+    left: 570px;
+    height: 400px; 
+    width: 500px;
+  }
+  
+  .pic14:active {
+    -webkit-transform: scale(0.1);
+    transform: scale(1.5);
+    cursor: zoom-out;
+    z-index: 1;
+
+  }
+
+  .pic15 {
+    transition: transform 0.2s ease;
+    cursor: zoom-in;
+
+    position: absolute;
+    top: 9500px;
+    left: 570px;
+    height: 400px; 
+    width: 500px;
+  }
+  
+  .pic15:active {
+    -webkit-transform: scale(0.1);
+    transform: scale(1.5);
+    cursor: zoom-out;
+    z-index: 1;
+
+  }
+
+  .pic16 {
+    transition: transform 0.2s ease;
+    cursor: zoom-in;
+
+    position: absolute;
+    top: 10180px;
+    left: 570px;
+    height: 400px; 
+    width: 500px;
+  }
+  
+  .pic16:active {
+    -webkit-transform: scale(0.1);
+    transform: scale(1.5);
+    cursor: zoom-out;
+    z-index: 1;
+
+  }
+
+  .pic17 {
+    transition: transform 0.2s ease;
+    cursor: zoom-in;
+
+    position: absolute;
+    top: 10850px;
+    left: 570px;
+    height: 400px; 
+    width: 500px;
+  }
+  
+  .pic17:active {
+    -webkit-transform: scale(0.1);
+    transform: scale(1.5);
+    cursor: zoom-out;
+    z-index: 1;
+
+  }
+
+  .pic18 {
+    transition: transform 0.2s ease;
+    cursor: zoom-in;
+
+    position: absolute;
+    top: 11520px;
+    left: 570px;
+    height: 400px; 
+    width: 500px;
+  }
+  
+  .pic18:active {
+    -webkit-transform: scale(0.1);
+    transform: scale(1.5);
+    cursor: zoom-out;
+    z-index: 1;
+
+  }
+
+  .pic19 {
+    transition: transform 0.2s ease;
+    cursor: zoom-in;
+
+    position: absolute;
+    top: 12190px;
+    left: 570px;
+    height: 400px; 
+    width: 500px;
+  }
+  
+  .pic19:active {
+    -webkit-transform: scale(0.1);
+    transform: scale(1.5);
+    cursor: zoom-out;
+    z-index: 1;
+
+  }
+
+  .pic20 {
+    transition: transform 0.2s ease;
+    cursor: zoom-in;
+
+    position: absolute;
+    top: 12860px;
+    left: 570px;
+    height: 400px; 
+    width: 500px;
+  }
+  
+  .pic20:active {
+    -webkit-transform: scale(0.1);
+    transform: scale(1.5);
+    cursor: zoom-out;
+    z-index: 1;
+
+  }
+
+  .pic21 {
+    transition: transform 0.2s ease;
+    cursor: zoom-in;
+
+    position: absolute;
+    top: 13530px;
+    left: 570px;
+    height: 400px; 
+    width: 500px;
+    padding: 20px;
+  }
+  
+  .pic21:active {
+    -webkit-transform: scale(0.1);
+    transform: scale(1.5);
+    cursor: zoom-out;
+    z-index: 1;
+    
+
+  }
+
+
+
+
+body{
+  font-size: 1vw;
+}
+
+img{
+  height: 3vw;
+  width: 5vw;
+}
