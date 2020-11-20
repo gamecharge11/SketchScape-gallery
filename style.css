@@ -13,6 +13,7 @@ body{
     align-items: center;
     background-color: #333;
     color: white;
+
 }
 
 .brand-title{
@@ -501,3 +502,8 @@ img{
   width: 5vw;
 }
 
+nav{
+  position: fixed;
+  z-index: 5;
+  left: 900px;
+}
