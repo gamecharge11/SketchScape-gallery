@@ -87,15 +87,14 @@ body{
  }
  
 
- .pic {
+ .pic{
     transition: transform 0.2s ease;
     cursor: zoom-in;
 
     position: absolute;
     top: 130px;
     left: 570px;
-    height: 400px; 
-    width: 500px;
+
   }
   
   .pic:active {
@@ -113,8 +112,7 @@ body{
     position: absolute;
     top: 800px;
     left: 570px;
-    height: 400px; 
-    width: 500px;
+
   }
   
   .pic2:active {
@@ -133,8 +131,7 @@ body{
     position: absolute;
     top: 1470px;
     left: 570px;
-    height: 400px; 
-    width: 500px;
+  
   }
   
   .pic3:active {
@@ -152,8 +149,7 @@ body{
     position: absolute;
     top: 2140px;
     left: 570px;
-    height: 400px; 
-    width: 500px;
+
   }
   
   .pic4:active {
@@ -171,8 +167,7 @@ body{
     position: absolute;
     top: 2810px;
     left: 570px;
-    height: 400px; 
-    width: 500px;
+
   }
   
   .pic5:active {
@@ -190,8 +185,7 @@ body{
     position: absolute;
     top: 3480px;
     left: 570px;
-    height: 400px; 
-    width: 500px;
+
   }
   
   .pic6:active {
@@ -209,8 +203,7 @@ body{
     position: absolute;
     top: 4150px;
     left: 570px;
-    height: 400px; 
-    width: 500px;
+
   }
   
   .pic7:active {
@@ -228,8 +221,7 @@ body{
     position: absolute;
     top: 4820px;
     left: 570px;
-    height: 400px; 
-    width: 500px;
+
   }
   
   .pic8:active {
@@ -247,8 +239,7 @@ body{
     position: absolute;
     top: 5490px;
     left: 570px;
-    height: 400px; 
-    width: 500px;
+
   }
   
   .pic9:active {
@@ -266,8 +257,7 @@ body{
     position: absolute;
     top: 6160px;
     left: 570px;
-    height: 400px; 
-    width: 500px;
+
   }
   
   .pic10:active {
@@ -285,8 +275,7 @@ body{
     position: absolute;
     top: 6830px;
     left: 570px;
-    height: 400px; 
-    width: 500px;
+
   }
   
   .pic11:active {
@@ -304,8 +293,7 @@ body{
     position: absolute;
     top: 7500px;
     left: 570px;
-    height: 400px; 
-    width: 500px;
+
   }
   
   .pic12:active {
@@ -324,8 +312,7 @@ body{
     position: absolute;
     top: 8170px;
     left: 570px;
-    height: 400px; 
-    width: 500px;
+
   }
   
   .pic13:active {
@@ -342,9 +329,7 @@ body{
 
     position: absolute;
     top: 8840px;
-    left: 570px;
-    height: 400px; 
-    width: 500px;
+
   }
   
   .pic14:active {
@@ -362,8 +347,7 @@ body{
     position: absolute;
     top: 9500px;
     left: 570px;
-    height: 400px; 
-    width: 500px;
+
   }
   
   .pic15:active {
@@ -381,8 +365,7 @@ body{
     position: absolute;
     top: 10180px;
     left: 570px;
-    height: 400px; 
-    width: 500px;
+
   }
   
   .pic16:active {
@@ -400,8 +383,7 @@ body{
     position: absolute;
     top: 10850px;
     left: 570px;
-    height: 400px; 
-    width: 500px;
+
   }
   
   .pic17:active {
@@ -419,8 +401,7 @@ body{
     position: absolute;
     top: 11520px;
     left: 570px;
-    height: 400px; 
-    width: 500px;
+
   }
   
   .pic18:active {
@@ -438,8 +419,7 @@ body{
     position: absolute;
     top: 12190px;
     left: 570px;
-    height: 400px; 
-    width: 500px;
+
   }
   
   .pic19:active {
@@ -457,8 +437,7 @@ body{
     position: absolute;
     top: 12860px;
     left: 570px;
-    height: 400px; 
-    width: 500px;
+
   }
   
   .pic20:active {
@@ -476,8 +455,7 @@ body{
     position: absolute;
     top: 13530px;
     left: 570px;
-    height: 400px; 
-    width: 500px;
+
     padding: 20px;
   }
   
@@ -495,6 +473,9 @@ body{
 
 body{
   font-size: 1vw;
+  background-image: url('data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAwMDBUVECUdHR8oICUfRT0oNSgyLCwoKygoMj0uMisyKSgrKygoKCgoKCgoKCgoKCgoKCgoKCgoKCgoLCgmKCgBCgcICQoJDQoKCg0NDQ8QGRMNEBAPEBYTEBAZExgZFxcXExYZIhkYFx8XEhYaLRoiIyYpKSkQGS81Lyc0IikpKP/AABEIAKgBLAMBIgACEQEDEQH/xAAZAAEBAQEBAQAAAAAAAAAAAAACAAEDBgf/xAAVEAEBAAAAAAAAAAAAAAAAAAAAAf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwD56kgTGsBJIEkgSSBJIGJIEkgTGsBHAOAcOBDgOkOBDgHDCGBx0jnHSAcOBDgHDgQ4DpDgQ4DpDgQ4Bwwhg8KkgTGsBJIEkgSSBJIGJIEkgTGsBHAOAcOBDgOkOBDgHDCGBx0jnHSAcOBDgHDgQ4DpDgQ4DpDgQ4Bwwhg8KkgTGsBJIEkgSSBJIGJIEkgTGsBHAOAcOBDgOkOBDgHDCGBx0jnHSAcOBDgHDgQ4DpDgQ4DpDgQ4Bwwhg8KkgTGsBJIEkgSSBJIGJIEkgTGsBHAOAcOBDgOkOBDgHDCGBx0jnHSAcOBDgHDgQ4DpDgQ4DpDgQ4Bwwhg8KkgTGsBJIEkgSSBJIGJIEkgTGsBHAOAcOBDgOkOBDgHDCGBx0jnDgOkOBDgHDgQ4DpDgQ4DpDgQ4Bwwhg8KkgTGsBJIEkgSSBJIGJIEkgTGsBHAOAcOBDgOkOBDgHDCGBx0jnHSAcOBDgHDgQ4DpDgQ4DpDgQ4Bwwhg8KkgTGsBJIEkgSSBJIGJIEkgTGsBHAOAcOBDgOkOBDgHDCGBx0jnHSAcOBDgHDgQ4DpDgQ4DpDgQ4Bwwhg8KkgTGsBJIEkgSSBJIGJIEkgTGsBHAOAcOBDgOkOBDgHDCGBx0jnHSAcOBDgHDgQ4DpDgQ4DpDgQ4Bwwhg8KkgTGsBJIEkgSSBJIGJIEkgTGsBHAOAcOBDgOkOBDgHDCGBx0jnHSAcOBDgHDgQ4DpDgQ4DpDgQ4Bwwhg8KkgTGsBJIEkgSSBJIGJIEkgTGsBHAOAcOBDgOkOBDgHDCGBx0jnHSAcOBDgHDgQ4DpDgQ4DpDgQ4Bwwhg8KkgTEgSSBJIEkgSSBiSBJIExIEcSA4cagOHEgOGkBw4kDpDiQHDjUBw4kDpDiQHDSB//2Q==');
+  background-size: 100%;
+  color: #FFFFFF;
 }
 
 img{
@@ -507,3 +488,4 @@ nav{
   z-index: 5;
   left: 600px;
 }
+
